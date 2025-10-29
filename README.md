@@ -105,25 +105,5 @@ If you use **ContextMentalQA** in your research, please cite:
 
 ```
 
----
-
-## ⚖️ License
-This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🧩 Acknowledgments
-Developed by the **ContextMentalQA Research Team**  
-Supported by **King Khalid University (KKU)** and **KAUST Academy** collaboration.
-
----
-
-## 🧷 To-Do
-- [ ] Upload pretrained checkpoints  
-- [ ] Add Colab demo notebook  
-- [ ] Publish dataset card (MentalQA Benchmark)  
-- [ ] Release adaptive threshold visualizer  
-
----
 
 ✨ *ContextMentalQA — advancing culturally aware mental health AI for Arabic language communities.*
