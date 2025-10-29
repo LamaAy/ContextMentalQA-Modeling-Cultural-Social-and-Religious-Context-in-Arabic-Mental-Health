@@ -1,8 +1,7 @@
 # 🧠 ContextMentalQA  
 **Modeling Cultural, Social, and Religious Context in Arabic Mental Health Question Answering**
 
-[![Paper](https://img.shields.io/badge/IEEE_Access-2025-blue)](https://ieeexplore.ieee.org/)
-
+[![Paper](https://img.shields.io/badge/IEEE_J_Biomedical_and_Health_Informatics-2025-blue)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
 [![Model](https://img.shields.io/badge/Model-AraBERT--v02-orange.svg)](https://huggingface.co/aubmindlab/bert-base-arabertv02)
 
 ---
@@ -90,17 +89,7 @@ Outputs include per-label probabilities, binary predictions, and combined label 
 | **Micro-Jaccard** | Overlap measure for multi-label sets |
 | **Hamming Loss** | Fraction of labels misclassified |
 
----
 
-## 📊 Example Inference Output
-| Question | Predicted Labels |
-|-----------|------------------|
-| هل أنا مريض نفسي؟ | Social\|Relationship |
-| أشعر أني بعيد عن الناس | Social\|Life Satisfaction |
-| هل الذنب سبب حالتي النفسية؟ | Religion |
-| لا أعاني من شيء | No |
-
----
 
 ## 🧠 Citation
 If you use **ContextMentalQA** in your research, please cite:
@@ -109,11 +98,11 @@ If you use **ContextMentalQA** in your research, please cite:
 @article{ayash2025contextmentalqa,
   title={ContextMentalQA: Modeling Cultural, Social, and Religious Context in Arabic Mental Health Question Answering},
   author={Ayash, Lama and Alasmari, Ashwag and Alhuzali, Hassan},
-  journal={IEEE Access},
+  journal={IEEE Journal of Biomedical and Health Informatics},
   year={2025},
-  volume={11},
   publisher={IEEE}
 }
+
 ```
 
 ---
