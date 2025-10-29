@@ -2,7 +2,7 @@
 **Modeling Cultural, Social, and Religious Context in Arabic Mental Health Question Answering**
 
 [![Paper](https://img.shields.io/badge/IEEE_Access-2025-blue)](https://ieeexplore.ieee.org/)
-[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
+
 [![Model](https://img.shields.io/badge/Model-AraBERT--v02-orange.svg)](https://huggingface.co/aubmindlab/bert-base-arabertv02)
 
 ---
