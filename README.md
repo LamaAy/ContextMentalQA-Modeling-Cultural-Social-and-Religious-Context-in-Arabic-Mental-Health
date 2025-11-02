@@ -54,7 +54,7 @@ ContextMentalQA/
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/<your-username>/ContextMentalQA.git
+git clone https://github.com/LamaAy/ContextMentalQA.git
 cd ContextMentalQA
 pip install -r requirements.txt
 ```
